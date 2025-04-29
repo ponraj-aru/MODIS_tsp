@@ -1,1 +1,1 @@
-test
+usethis::use_git()
